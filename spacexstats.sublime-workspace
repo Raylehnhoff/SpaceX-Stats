@@ -1,0 +1,687 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"loc",
+				"locDetail"
+			],
+			[
+				"speci",
+				"specificCount"
+			],
+			[
+				"miss",
+				"missionDetails"
+			],
+			[
+				"comple",
+				"completeBool"
+			],
+			[
+				"sta",
+				"statusBool"
+			],
+			[
+				"mission",
+				"missionstatistics"
+			],
+			[
+				"futu",
+				"futureLaunch"
+			],
+			[
+				"lau",
+				"launch_date_time"
+			],
+			[
+				"missi",
+				"mission"
+			],
+			[
+				"manipulate",
+				"manipulateDateTime"
+			],
+			[
+				"completeL",
+				"completeLaunches"
+			],
+			[
+				"output",
+				"outputDateTime"
+			],
+			[
+				"next",
+				"nextSheetBackground"
+			],
+			[
+				"merl",
+				"merlinSuccesses"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"sec",
+				"secondsBetween"
+			],
+			[
+				"countdo",
+				"countdownProcessor"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"nextShee",
+				"nextSheetName"
+			],
+			[
+				"table-",
+				"table-cell"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"left",
+				"leftchevron"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"col",
+				"background-color"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style-position"
+			],
+			[
+				"pageResul",
+				"pageResultLimitExists"
+			],
+			[
+				"ins",
+				"insertedValues"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"htmlsp",
+				"htmlspecialchars"
+			],
+			[
+				"thumb",
+				"thumbpath"
+			],
+			[
+				"argument",
+				"argumentArray"
+			],
+			[
+				"conditi",
+				"conditionValue"
+			],
+			[
+				"condition",
+				"conditionParameter"
+			],
+			[
+				"funcget",
+				"func_get_args"
+			],
+			[
+				"avat",
+				"avatar-large"
+			],
+			[
+				"para",
+				"parameter"
+			],
+			[
+				"imae",
+				"imageInfo"
+			],
+			[
+				"ref_coord",
+				"ref_coord_long"
+			],
+			[
+				"long",
+				"longitudeCoords"
+			],
+			[
+				"previousVote",
+				"previousVoteType"
+			],
+			[
+				"vote",
+				"voteCount"
+			],
+			[
+				"image",
+				"imageInfo"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"ima",
+				"imageID"
+			],
+			[
+				"square",
+				"squareIdentifier"
+			],
+			[
+				"someRandom",
+				"someRandomValue"
+			],
+			[
+				"pl",
+				"polygon"
+			],
+			[
+				"topLef",
+				"topLeftLat"
+			],
+			[
+				"add",
+				"addListener"
+			],
+			[
+				"top",
+				"topLeftLong"
+			],
+			[
+				"topL",
+				"topLeftLat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: Copy Path as URI"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/spacexstats/php/func.php",
+		"/H/spacexstats/previous.php",
+		"/H/spacexstats/upcoming.php",
+		"/H/spacexstats/assets/styles.css",
+		"/H/spacexstats/php/initialize.php",
+		"/H/spacexstats/mission.php",
+		"/H/spacexstats/php/database.class.php",
+		"/H/spacexstats/nojs.php",
+		"/H/spacexstats/index.php",
+		"/C/Users/Luke/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Luke/AppData/Local/Temp/fz3temp-1/database.class.php",
+		"/C/Users/Luke/AppData/Local/Temp/fz3temp-1/mission.class.php",
+		"/H/spacexstats/php/mission.class.php",
+		"/H/spacexstats/database.class.php",
+		"/H/spacexstats/php.php",
+		"/H/spacexstats/initialize.php",
+		"/H/spacexstats/styles.css",
+		"/H/spacexstats/mission.class.php",
+		"/C/Users/Luke/AppData/Local/Temp/fz3temp-1/initialize.php",
+		"/H/spacexstats/initalize.db.php",
+		"/H/spacexstats/textwidth.plugin.js",
+		"/H/spacexstats/headerwidth.js",
+		"/H/spacexstats/countdown.js",
+		"/H/spacexstats/headerlength.js",
+		"/H/spacexstats/quantify.js",
+		"/H/spacexstats/func.php",
+		"/H/spacexstats/sheetswitch.js",
+		"/H/Photoquilt/sourcefiles/initialize.php",
+		"/H/spacexstats/previous.html",
+		"/H/spacexstats/upcoming.html",
+		"/H/spacexstats/index.html",
+		"/H/jquerythirtydays/lesson28/searchTwitter.jquery.js",
+		"/H/jquerythirtydays/lesson15/slider.js",
+		"/H/spacexstats/countr.js",
+		"/H/Photoquilt/scripts/basic.js",
+		"/H/Photoquilt/publish.php",
+		"/H/Photoquilt/photoquilt.php",
+		"/H/Photoquilt/scripts/styles.css",
+		"/H/spacexstats/spacexstats.sublime-project",
+		"/H/spacexstats/media-medium.css",
+		"/H/spacexstats/media-large.css",
+		"/H/spacexstats/spacex_20110929-dragon-landing-l.jpg",
+		"/H/spacexstats/jquery-1.9.1.js",
+		"/H/Photoquilt/activate.php",
+		"/H/Photoquilt/test.php",
+		"/H/Photoquilt/sourcefiles/functions/upload.functions.php",
+		"/H/Photoquilt/sourcefiles/classes/search.class.php",
+		"/H/Photoquilt/sourcefiles/classes/image.class.php",
+		"/H/Photoquilt/photos.php",
+		"/H/Photoquilt/register.php",
+		"/H/Photoquilt/index.php",
+		"/H/Photoquilt/sourcefiles/classes/pagination.class.php",
+		"/H/Photoquilt/templates/header.php",
+		"/H/Photoquilt/squares.php",
+		"/H/Photoquilt/scripts/imagevoting.js",
+		"/H/Photoquilt/sourcefiles/imagevoting.ajax.php",
+		"/H/Photoquilt/sourcefiles/classes/square.class.php",
+		"/H/Photoquilt/searchresults.php",
+		"/H/Photoquilt/user.php",
+		"/H/Photoquilt/sourcefiles/classes/users.class.php",
+		"/H/PhotoquiltBackup130919/sourcefiles/classes/users.class.php",
+		"/H/Photoquilt/sourcefiles/publishverify.php",
+		"/H/Photoquilt/scripts/jquery-1.9.1.js",
+		"/H/PhotoquiltBackup130919/sourcefiles/publishverify.php",
+		"/H/PhotoquiltBackup130919/publish.php",
+		"/H/Photoquilt/upload.php",
+		"/H/Photoquilt/photos/edit.php",
+		"/H/Photoquilt/photos/delete.php",
+		"/H/Photoquilt/templates/publishform.php",
+		"/C/Users/Luke/Dropbox/imagevoting.ajax.backup.php",
+		"/H/Photoquilt/sourcefiles/comment.ajax.php",
+		"/H/Photoquilt/sourcefiles/classes/toolkit.class.php",
+		"/C/Users/Luke/Dropbox/stylesbackup130910.css",
+		"/H/Photoquilt/scripts/comment.js",
+		"/H/Photoquilt/login.php",
+		"/H/Photoquilt/scripts/setHomeLocation.js",
+		"/H/Photoquilt/sourcefiles/functions/user.functions.php",
+		"/H/Photoquilt/scripts/postComment.js",
+		"/H/Photoquilt/sourcefiles/postcomment.ajax.php",
+		"/H/Photoquilt/browsephotos.php",
+		"/H/Photoquilt/logout.php",
+		"/H/Photoquilt/maptesting.php",
+		"/H/Photoquilt/sourcefiles/squaresdata.googlemapsajax.php",
+		"/H/Photoquilt/sourcefiles/squaresxml.googlemapsajax.php",
+		"/H/Photoquilt/serverside/functions/upload.functions.php",
+		"/H/Photoquilt/serverside/classes/toolkit.class.php",
+		"/H/Photoquilt/serverside/classes/users.class.php",
+		"/H/Photoquilt/serverside/classes/square.class.php",
+		"/H/Photoquilt/serverside/initialize.php",
+		"/H/Photoquilt/serverside/classes/image.class.php",
+		"/H/Photoquilt/serverside/publishverify.php",
+		"/H/Photoquilt/serverside/classes/database.class.php",
+		"/H/Photoquilt/serverside/functions/user.functions.php",
+		"/H/Photoquilt/image/edit.php",
+		"/H/Photoquilt/serverside/classes/pagination.class.php",
+		"/H/Photoquilt/serverside/imagevoting.ajax.php",
+		"/H/Photoquilt/serverside/functions/squares.functions.php",
+		"/H/Photoquilt/serverside/functions/image.class.php",
+		"/H/Photoquilt/serverside/functions/users.class.php",
+		"/H/Photoquilt/serverside/functions/square.class.php",
+		"/H/Photoquilt/serverside/functions/pagination.class.php",
+		"/H/Photoquilt/serverside/functions/images.classes.php",
+		"/H/Photoquilt/serverside/functions/database.class.php",
+		"/H/Photoquilt/serverside/functions/misc.functions.php",
+		"/C/Users/Luke/Dropbox/posteddata.php",
+		"/H/Photoquilt/imagevoting.js",
+		"/H/Photoquilt/serverside/functions/images.functions.php",
+		"/H/Photoquilt/serverside/voting.ajax.php",
+		"/H/Photoquilt/serverside/squaresxml.googlemapsajax.php",
+		"/H/Photoquilt/__SquareTesting.php",
+		"/H/Photoquilt/serverside/squaresdata.googlemapsajax.php",
+		"/H/Photoquilt/scripts/loginbox.js",
+		"/H/Photoquilt/you.php",
+		"/H/Photoquilt/browse.php",
+		"/H/Photoquilt/maptesting2.php",
+		"/H/Photoquilt/serverside/phpajaxgooglemap.genxml.php",
+		"/C/Users/Luke/Dropbox/mapcoords.gen.php",
+		"/C/Users/Luke/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Luke/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Luke/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Luke/AppData/Roaming/Sublime Text 2/Packages/Tag/Tag Package.sublime-settings",
+		"/C/Users/Luke/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/Luke/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/H/Photoquilt/photoquilt.sql",
+		"/C/Users/Luke/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Luke/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/Luke/AppData/Roaming/Sublime Text 2/Packages/User/PHP.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"H:\\spacexstats",
+			"H:\\Photoquilt"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wideme",
+			"tr.widemetric",
+			"a:link",
+			"link",
+			"headerl",
+			"header",
+			"versus",
+			"widem",
+			"table.versus",
+			"contents",
+			"article",
+			"wideme",
+			"contents:before",
+			"status",
+			"class",
+			"img.class",
+			"header",
+			"article",
+			"missionstatis",
+			"article",
+			"widem",
+			"wideme",
+			"article",
+			"launchList",
+			"launchL",
+			"launchH",
+			"overflow",
+			"linkto",
+			"table#next",
+			"header.title",
+			"header class=\"title\"",
+			"div.dro",
+			"class=\"linkto\"",
+			"class=\"forwardlink\"",
+			"class=\"backlink\"",
+			"class=\"homelink\"",
+			"timeMe",
+			"nextL",
+			"caption",
+			"#countdow",
+			"#nextl",
+			"#nextL",
+			"wideme",
+			"content-box",
+			"content",
+			"cotnet",
+			"box-",
+			"box-sizing",
+			"section.upco",
+			">\n",
+			"wrapper",
+			"table",
+			"starting",
+			"<a href=\"index.html\" class=\"homelink\"></a>",
+			"a {",
+			"a",
+			"content",
+			"discl",
+			"p {",
+			"p",
+			"}\n",
+			";\n",
+			"table",
+			"class=\"quantify\"",
+			"table",
+			"div.bottom {",
+			"div.bottom",
+			"<div class=\"bottom\">",
+			"absolute",
+			"<span class=\"title\">",
+			"infinite",
+			"-o",
+			"stats",
+			"ul",
+			".plaq",
+			".pla",
+			"div",
+			"Thin",
+			";\n",
+			"hr",
+			";\n",
+			"\n}",
+			"flux",
+			"Register",
+			"rankingInSquare",
+			"JOIN",
+			"publish",
+			"publisj",
+			"upload",
+			"cross",
+			"ul",
+			"<?",
+			"Sizzle",
+			"^(.*)$",
+			"$pageLimit",
+			"80px",
+			"log",
+			"img lo",
+			"div#mapcon",
+			"255",
+			"E5E3DF",
+			"E5E",
+			"E",
+			"outline",
+			"SELECT * FROM `votes` WHERE `user_id` = :user_id AND `image_id` = :image_id LIMIT 1",
+			":visited",
+			"account",
+			"header li >",
+			"\n}",
+			"nav#",
+			"man#",
+			"form",
+			"header li >",
+			"header >",
+			"span#acco",
+			"div.comment p",
+			"userI",
+			"mapcont",
+			"span",
+			"spam",
+			"());",
+			"userInf",
+			"comment",
+			" $",
+			"count",
+			":(');",
+			"e",
+			"limit"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"header",
+			"id=\"linkto\"",
+			"id=\"forwardlink\"",
+			"id=\"backlink\"",
+			"id=\"homelink\"",
+			"<a href=\"index.php\" class=\"homelink\"></a>",
+			"",
+			"<footer>",
+			"<header class=\"title\">",
+			"$pageResult",
+			"rgba(120,120,120,0.75)",
+			"rgba(120,120,120,0.25)",
+			"rgba(120,120,120,0.5)",
+			"sourcefiles",
+			"href=\"scripts/styles.css?<?php echo date('l jS \\of F Y h:i:s A'); ?>\" />",
+			"href=\"scripts/styles.css?<?php echo date('l jS \\of F Y h:i:s A'); ?>\"",
+			"input",
+			"pageLimit",
+			"paginateQuery",
+			"echo $this->error",
+			"</h2></div>",
+			"<div class=\"h2-holder\"><h2>",
+			"imagevoting.ajax.php",
+			"class=\"avatar\"",
+			"user.php",
+			"loginBoxEmail",
+			"loginBoxPassword",
+			"voteAction",
+			"infoWindow",
+			"href=\"/browsephotos.php\"",
+			"src=\"/browsephotos.php\"",
+			"scripts/loginbox.js",
+			"InfoBox",
+			"infoBox",
+			"content=\"photos, photoquilt, geolocation, mapping, GPS, adventure\"",
+			"AJAXrequest",
+			"longSpan",
+			"latSpan"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.652400231348,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/H/spacexstatsmin/spacexstats.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true
+}
