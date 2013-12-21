@@ -1,6 +1,6 @@
 (function($) {
 	$.fn.countdown = function(options, callback) {
-		var self = $(this);
+		var $self = $(this);
 
 		var settings = {
 			'date' : null,
@@ -33,15 +33,15 @@
 			var seconds = secondsBetween;	
 
 			//update the HTML
-			self.find('.days').text(days);
-			self.find('.hours').text(hours);
-			self.find('.minutes').text(minutes);
-			self.find('.seconds').text(seconds);
+			$self.find('.days').text(days);
+			$self.find('.hours').text(hours);
+			$self.find('.minutes').text(minutes);
+			$self.find('.seconds').text(seconds);
 
-			days == 1 ? self.find('.refDays').text('Day') : self.find('.refDays').text('Days');
-			hours == 1 ? self.find('.refHours').text('Hour') : self.find('.refHours').text('Hours');
-			minutes == 1 ? self.find('.refMinutes').text('Minute') : self.find('.refMinutes').text('Minutes');
-			seconds == 1 ? self.find('.refSeconds').text('Second') : self.find('.refSeconds').text('Seconds');
+			days == 1 ? $self.find('.refDays').text('Day') : $self.find('.refDays').text('Days');
+			hours == 1 ? $self.find('.refHours').text('Hour') : $self.find('.refHours').text('Hours');
+			minutes == 1 ? $self.find('.refMinutes').text('Minute') : $self.find('.refMinutes').text('Minutes');
+			seconds == 1 ? $self.find('.refSeconds').text('Second') : $self.find('.refSeconds').text('Seconds');
 
 		}
 

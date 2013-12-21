@@ -25,19 +25,19 @@ $(document).ready(function(){
 		}
 	});
 
-	$('li > a').click(function(event) {
+	$('li').on('click','a',function(event) {
 		event.preventDefault();
-		activePage = $(this).attr("data-index");
+		activePage = $(this).data("index");
 		move(activePage);
 	});
 
-	$('a#homelink').click(function(event) {
+	$('#homelink').on('click',function(event) {
 		event.preventDefault();
 		activePage = 1;
 		move(activePage);
 	});
 
-	$('div#bottomchevron').click(function(event) {
+	$('div#bottomchevron').on('click',function(event) {
 		scroll('down');
 	});
 
@@ -95,7 +95,6 @@ $(document).ready(function(){
 	function setActivePage(activePage) {
 		$('a, section').removeClass('active');
 		$('a[data-index="'+activePage+'"], section[data-index="'+activePage+'"]').addClass('active').trigger('classChange');
-		
 	}
 
 

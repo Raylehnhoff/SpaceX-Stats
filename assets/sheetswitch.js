@@ -19,8 +19,9 @@ $(document).ready(function(){
 		}
 
 		// Replace the data-sheet value and the name of the display span upon click
-		$('section.active span').data('sheet', nextSheet);
-		$('section.active span').text(nextSheetName);
+	    $('section.active span')
+            .data('sheet', nextSheet)
+		    .text(nextSheetName);
 
 		// Hide current [data-sheet] values
 		$('section.active div[data-sheet]:visible').stop().fadeOut(500, false, function() {
@@ -28,7 +29,7 @@ $(document).ready(function(){
 		});
 
 		if (nextSheetBackground) {
-			$('section.active').css('background-image', 'url('+nextSheetBackground+')');
+		    $('section.active').css({ 'background-image': 'url(' + nextSheetBackground + ')' });
 		}
 		
 	});
